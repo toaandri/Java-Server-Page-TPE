@@ -1,0 +1,15 @@
+D:\Ecole\L2\Java Server Page\Projet-simple\projet-1-tournois\src\main\java\com\projetsimple\config\Database.java
+D:\Ecole\L2\Java Server Page\Projet-simple\projet-1-tournois\src\main\java\com\projetsimple\model\Match.java
+D:\Ecole\L2\Java Server Page\Projet-simple\projet-1-tournois\src\main\java\com\projetsimple\model\StandingRow.java
+D:\Ecole\L2\Java Server Page\Projet-simple\projet-1-tournois\src\main\java\com\projetsimple\model\Team.java
+D:\Ecole\L2\Java Server Page\Projet-simple\projet-1-tournois\src\main\java\com\projetsimple\model\Tournament.java
+D:\Ecole\L2\Java Server Page\Projet-simple\projet-1-tournois\src\main\java\com\projetsimple\repository\MatchRepository.java
+D:\Ecole\L2\Java Server Page\Projet-simple\projet-1-tournois\src\main\java\com\projetsimple\repository\TeamRepository.java
+D:\Ecole\L2\Java Server Page\Projet-simple\projet-1-tournois\src\main\java\com\projetsimple\repository\TournamentRepository.java
+D:\Ecole\L2\Java Server Page\Projet-simple\projet-1-tournois\src\main\java\com\projetsimple\service\TournamentService.java
+D:\Ecole\L2\Java Server Page\Projet-simple\projet-1-tournois\src\main\java\com\projetsimple\servlet\HomeServlet.java
+D:\Ecole\L2\Java Server Page\Projet-simple\projet-1-tournois\src\main\java\com\projetsimple\servlet\MatchServlet.java
+D:\Ecole\L2\Java Server Page\Projet-simple\projet-1-tournois\src\main\java\com\projetsimple\servlet\StandingsServlet.java
+D:\Ecole\L2\Java Server Page\Projet-simple\projet-1-tournois\src\main\java\com\projetsimple\servlet\TeamServlet.java
+D:\Ecole\L2\Java Server Page\Projet-simple\projet-1-tournois\src\main\java\com\projetsimple\servlet\TournamentServlet.java
+D:\Ecole\L2\Java Server Page\Projet-simple\projet-1-tournois\src\main\java\com\projetsimple\web\filter\CharacterEncodingFilter.java

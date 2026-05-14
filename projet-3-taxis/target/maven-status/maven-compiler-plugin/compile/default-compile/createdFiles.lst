@@ -1,0 +1,13 @@
+com\projetsimple\taxis\repository\DriverRepository.class
+com\projetsimple\taxis\model\Ride.class
+com\projetsimple\taxis\servlet\VehicleServlet.class
+com\projetsimple\taxis\servlet\RideServlet.class
+com\projetsimple\taxis\model\Driver.class
+com\projetsimple\taxis\service\FleetService.class
+com\projetsimple\taxis\servlet\DriverServlet.class
+com\projetsimple\taxis\config\Database.class
+com\projetsimple\taxis\servlet\HomeServlet.class
+com\projetsimple\taxis\repository\VehicleRepository.class
+com\projetsimple\taxis\repository\RideRepository.class
+com\projetsimple\taxis\web\filter\CharacterEncodingFilter.class
+com\projetsimple\taxis\model\Vehicle.class

@@ -1,0 +1,15 @@
+com\projetsimple\repository\MatchRepository.class
+com\projetsimple\servlet\HomeServlet.class
+com\projetsimple\servlet\TeamServlet.class
+com\projetsimple\config\Database.class
+com\projetsimple\repository\TournamentRepository.class
+com\projetsimple\repository\TeamRepository.class
+com\projetsimple\model\Match.class
+com\projetsimple\servlet\MatchServlet.class
+com\projetsimple\servlet\TournamentServlet.class
+com\projetsimple\model\Team.class
+com\projetsimple\model\StandingRow.class
+com\projetsimple\service\TournamentService.class
+com\projetsimple\model\Tournament.class
+com\projetsimple\web\filter\CharacterEncodingFilter.class
+com\projetsimple\servlet\StandingsServlet.class

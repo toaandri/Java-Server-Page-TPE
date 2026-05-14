@@ -1,0 +1,30 @@
+package com.projetsimple.taxis.servlet;
+
+import com.projetsimple.taxis.service.FleetService;
+
+import jakarta.servlet.ServletException;
+import jakarta.servlet.annotation.WebServlet;
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
+
+import java.io.IOException;
+import java.sql.SQLException;
+
+@WebServlet("/")
+public class HomeServlet extends HttpServlet {
+    private final FleetService service = new FleetService();
+
+    @Override
+    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        try {
+            req.setAttribute("drivers", service.drivers());
+            req.setAttribute("vehicles", service.vehicles());
+            req.setAttribute("rides", service.rides());
+            req.setAttribute("stats", service.stats());
+            req.getRequestDispatcher("/WEB-INF/jsp/index.jsp").forward(req, resp);
+        } catch (SQLException e) {
+            throw new ServletException(e);
+        }
+    }
+}

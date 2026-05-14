@@ -1,0 +1,8 @@
+com\projetsimple\livraison\model\DeliveryPerson.class
+com\projetsimple\livraison\model\DeliveryOrder.class
+com\projetsimple\livraison\service\DeliveryService.class
+com\projetsimple\livraison\config\Database.class
+com\projetsimple\livraison\servlet\HomeServlet.class
+com\projetsimple\livraison\repository\DeliveryRepository.class
+com\projetsimple\livraison\servlet\DeliveryServlet.class
+com\projetsimple\livraison\web\filter\CharacterEncodingFilter.class
